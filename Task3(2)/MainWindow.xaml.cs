@@ -58,7 +58,7 @@ namespace Task3_2_
         private void Processing()
         {
             while (true)
-            {
+            { 
                 try
                 {
                     lock (lockobj)
